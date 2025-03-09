@@ -332,6 +332,7 @@
 }
 .email-submit{
     display: flex;
+    align-items: center;
 }
 input[type="email"]{
     border:2px solid gray;
