@@ -330,3 +330,10 @@
     padding: .5rem 1.5rem;
     border-radius: 1.5rem ;
 }
+.email-submit{
+    display: flex;
+}
+input[type="email"]{
+    border:2px solid gray;
+    padding: .5rem 1rem ;
+}
