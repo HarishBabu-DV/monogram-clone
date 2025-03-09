@@ -337,4 +337,5 @@
 input[type="email"]{
     border:2px solid gray;
     padding: .5rem 1rem ;
+    background-color: transparent;
 }
