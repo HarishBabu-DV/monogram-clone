@@ -341,4 +341,5 @@ input[type="email"]{
     &::placeholder{
         color:rgba(255, 255, 255, 0.475) ;
     }
+    caret-color:#efc2b3;
 }
