@@ -333,7 +333,7 @@
 .email-submit{
     display: flex;
     align-items: center;
-    gap: .3rem;
+    gap: .5rem;
 }
 input[type="email"]{
     border:2px solid gray;
